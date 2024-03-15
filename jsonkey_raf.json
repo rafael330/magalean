@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "dynamic-reef-390414",
+  "private_key_id": "26ab1eea490a8ae0329dce6a9e522836ef0362c6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCvG3O2iQOjkz7h\nW8JGrYQARrDnRJEvgkLm9wbkYpBoeUfBrOUUXEqMimvDszeHAFgiTbzhHNGzW1an\n3uz5bWy21hMOmyJX5NR+HHAW4wtaJE87v62KgVG6SisvWq3r/o8xe99Qdi+rzXxm\n/GJ2699A3bRFEBT2cZD0ASv4jh8tTi2mBCdULg2Wh0K6fmSqWF8VovanX7cGXY6s\nwkkWjMGSh8vDy0XTAcuOCLOZ0AQhBtIxCVATrzkuPX9DbAn/BbXQOstO85lqAlzR\nRv+3/qK4Yu8DNa7xsdwSDbtkmxxlcI7B6hDp9WX4yBHe/aW68/08pnZj2NYfoD1S\nkBMJEdfnAgMBAAECggEAVX9i5UpK85BOkHxcBGRuYjAh6hmphfflMJ6Gx/Z0Kf6l\nkaQYifNyFuLzMS+NOiZp4f3w7j1DCn7bdcW8ESFjhnZKAcSvZRj+w8Cg3hvnjBDU\newjg9BKmU/4ozctJxkOZqQChjcjXB9yiFCrA7O3IKQTXIy1x/s5+hxUXYhoKkPSe\nJyu5Nrov4myMfQiOftk4MmNTzBfuQONbQXorRrRDxghZxy7rKaxgPnzv23uuUkSv\nYtfy8Dy+wvHjyh20x8ROMMnQD8kP3wqhVQBfxI6GpG6SztVaduN/orJ+EjTFUH/U\nHTyk9P+nbfGZS6F+6pICf9zp9juo/g+z4BVmJUI9qQKBgQDq7j2Jb5QKOpaBtKNU\nAHg+mitxMHRiHajrt83YUZtRSv0yQFxjhI7bZEaFvKsu+Uqx+yKkWWYzEPWJoZzi\nCJrgriSbk+qmIi4PM4SnhZJj3CzndzxAjCU/InxC2AmSNgEHIVl0fRVGkEM0plNx\nZazF44NP3fdvJ7dFkn4eD6p1IwKBgQC+z7rF+HqhmWUYJiDc8E/dswhM5j6zEspA\nh/bLZ7hJ+tmaiH3ht7pbZkl16zItufSUDtVJuyr1fgn1rhXrTQb/bgJOmUn2jUaF\nD5jZXI7MCnuW+NUbk364bFCrtIHMk8QB7S9qGTxo/298TfJ7eIcjPJCq1HZC1WAZ\nmd3jtFWobQKBgE08agrHHhqGzHh0FMZHKUEbmnCqB3lCWwiz8v7NRYziZH+i3Tzy\nlazXOMA7GORmnQIKmIcDxS/AwZiwA03kmlaHqg1kAd8AmbfxrgkNRuWBu1mVv79Q\n0+X/xm6LbAofqxLXCfvcK6R5RT8H96LuVHDyrXcSeIiYvA4pbUEg0V+VAoGBAJy8\n8oVwiPt5j8t4doJGfLR2Phk9AMAEbVL43MdVGdLbVihUemMRkulFao6MdpmNKNT+\nIkIAl1c1A2VmbObuTRNBAHAkBteaURU4LKxQFZSR/9eR6yxNykgf4VxKWFz9/IJA\nnTQgKrltKd0IAmleJlPRilxpTgO0Vs5w0A4dskc5AoGASEiUtO8ieoz22DAHOgj+\ncWIipWBijH4cVgiOYTADVCcuObbuliKeVjGg+Pt4sCEjrKYRBoZGRa1m0Y2rBXHh\nA8k+B9VH5jVlL+s+HwLyDrEzB2BZYAWWFzWo+zdGE0RRjHwcEf6k22T5MIobHBcp\nhN6X+KefomMdhIECy0nWEUE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "raf-roc@dynamic-reef-390414.iam.gserviceaccount.com",
+  "client_id": "110102516067334079553",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/raf-roc%40dynamic-reef-390414.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
